@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chatgpt": "^3.5.1",
+    "moment": "^2.29.4"
+  },
+  "name": "izudisbot",
+  "version": "9.9.9",
+  "description": "izunadiscordbot",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izunya/izudisbot.git"
+  },
+  "author": "izuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izunya/izudisbot/issues"
+  },
+  "homepage": "https://github.com/izunya/izudisbot#readme"
+}
